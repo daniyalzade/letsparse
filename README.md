@@ -15,4 +15,4 @@ Please code this in python and use the libraries highlighed in the requirements 
 
 ## Deliverable:
 
-* Once the task is complete, i.e. you write a python module with the function, please submit a pull request to this repo.
+* Once the task is complete, i.e. you write a python module with the function, please submit a [pull request](https://help.github.com/articles/using-pull-requests) to this repo.
