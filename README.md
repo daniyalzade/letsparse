@@ -1,4 +1,4 @@
-# letsparse: Product Image Parsing Challenge
+# Product Image Parsing Challenge
 
 This is a quick challenge on parsing product images out of a website. For this challenge we will be using the Urban Outfitters site. The challenge is writing a function that, given a category page identifier, finds all the product images for that category.
 
